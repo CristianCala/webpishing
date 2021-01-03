@@ -12,9 +12,14 @@
 -XAMPP u otro servidor (este viene con el MySql por defecto)
 ```
 
+## Algunas capturas 😉
+
+![imagen1](https://github.com/CristianCala/webpishing/blob/main/screenshots/ppp.png)
+
+![imagen2](https://github.com/CristianCala/webpishing/blob/main/screenshots/ppp2.png)
+
+![imagen3](https://github.com/CristianCala/webpishing/blob/main/screenshots/ppp3.png)
+
 ## Notaaa
 
 Usese bajo riesgo propio, esto lo cree por pura práctica unicamente, no me hago responsable por el posible uso que se le pueda dar. 
-
-## Algunas capturas 😉
-
