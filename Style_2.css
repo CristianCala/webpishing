@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+
+}
+
+body{
+	background-image: url(img/back.jpg);
+	background-size: 103% 103%;
+	width: 100%;
+	height: auto;
+	text-align: center;
+	background-attachment: fixed;
+	overflow: hidden;
+}
+
+footer{
+	background-color: rgba(0,0,0, 0.6);
+}
+
+#mycontainer{
+	 width:440px !important;
+	 height: 338px !important;
+}
+
